@@ -34,9 +34,9 @@ Building Scalable Systems & Clean Backend Architectures
 
 ### 🛠️ Tech Stack
 <p align="left">
-<img src="https://skillicons.dev/icons?i=php,laravel,codeigniter,magento,nextjs,nodejs,express,react,typescript,javascript,mysql,mongodb,linux,git,tailwind,bootstrap" />
+<img src="https://skillicons.dev/icons?i=php,laravel,codeigniter,nextjs,nodejs,express,react,typescript,javascript,mysql,mongodb,linux,git,tailwind,bootstrap" />
 </p>
-
+<a href="https://codeigniter.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a>
 ---
 
 ### 📊 GitHub Stats
