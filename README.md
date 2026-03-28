@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Raghvendra Mishra</h1>
 <h3 align="center">Crafting Scalable Web Apps with Laravel & Next.js Turning Ideas into Powerful Backend Systems Code. Build. Scale. Repeat.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rv9451" alt="rv9451" /></a> </p>
-
 - 🔭 I’m currently working on **aichatbot**
 
 - 🌱 I’m currently learning **NextJs NodeJs ExpressJs**
