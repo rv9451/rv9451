@@ -45,10 +45,7 @@ Building Scalable Systems & Clean Backend Architectures
 
 
 ### 📊 GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=rv9451&show_icons=true&theme=tokyonight" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=rv9451&layout=compact&theme=tokyonight" />
-</p>
+
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=rv9451&theme=tokyonight" />
