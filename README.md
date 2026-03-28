@@ -33,15 +33,14 @@ Building Scalable Systems & Clean Backend Architectures
 ---
 
 ### 🛠️ Tech Stack
-k
 <p align="left">
   <img src="https://skillicons.dev/icons?i=php,laravel,nextjs,nodejs,express,react,typescript,javascript,mysql,mongodb,linux,git,tailwind,bootstrap" />
 
   <!-- CodeIgniter -->
   <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" width="40" height="40"/>
 
-  <!-- Magento -->
-  <img src="https://cdn.worldvectorlogo.com/logos/magento.svg" width="40" height="40"/>
+  <!-- Magento (fixed) -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/magento/magento-original.svg" width="40" height="40"/>
 </p>
 
 
